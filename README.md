@@ -3,4 +3,4 @@
 This is an old project of mine I found on my previous computer. The code is
 nothing special.
 
-![preview](res/simplescreenrecorder-2024-02-07_11.32.27.mp4)
+https://github.com/iK4tsu/sort-visualizer/assets/32413766/ca70ac05-f70f-4bcd-a46f-f4a763f3870c
