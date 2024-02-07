@@ -1,0 +1,13 @@
+{
+	"name": "sort_visualizer",
+	"description": "an attempt of making a sort visualizer with SDL",
+	"authors": ["João Lourenço"],
+	"license": "GPL-3.0",
+	"dependencies": {
+		"bindbc-sdl": "~>0.20.0",
+		"bindbc-opengl": "~>0.16.0",
+		"dlib": "~>0.21.0"
+	},
+	"versions": ["BindSDL_Static", "SDL_2012", "GL_33"],
+	"libs": ["SDL2"]
+}
